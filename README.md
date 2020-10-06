@@ -26,8 +26,6 @@
 [tooltips](https://getbootstrap.com/docs/4.3/components/tooltips/) for this.
 - Publish your result
 
-## Layout
 
-![Layout](images/challenge bootstrap.png)
-Here is my work:
-https://gemahonesta.github.io/challenge-bootstrap/index.html
+ [Here is my work](https://gemahonesta.github.io/challenge-bootstrap/index.html)
+
