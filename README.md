@@ -12,7 +12,8 @@
 
 ## Layout
 
-![Layout](images/challenge bootstrap.png)
+![Here is the layout] https://github.com/becodeorg/Startup-Brussels-Johnson-5.25/blob/master/1.The-Field/02.HTML-CSS/3.CSS-Frameworks/1.Exercise-Grid-Away.md
+
 # Title: Grid away, grid ahoy!
 
 ## The Mission
