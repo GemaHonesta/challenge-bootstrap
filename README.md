@@ -27,5 +27,5 @@
 - Publish your result
 
 
- [Here is my work](https://gemahonesta.github.io/challenge-bootstrap/index.html)
+ [Here is my work](https://gemahonesta.github.io/challenge-bootstrap-grid-/)
 
