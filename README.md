@@ -12,7 +12,7 @@
 
 ## Layout
 
-![Layout](Images/challenge bootstrap.png)
+![Layout](images/challenge bootstrap.png)
 # Title: Grid away, grid ahoy!
 
 ## The Mission
@@ -27,6 +27,6 @@
 
 ## Layout
 
-![Layout](Images/challenge bootstrap.png)
+![Layout](images/challenge bootstrap.png)
 Here is my work:
 https://gemahonesta.github.io/challenge-bootstrap/index.html
